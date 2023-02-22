@@ -1,0 +1,5 @@
+This folder contain the files for Simulating ODE models
+
+To simulate the kinetics follow instructions in simulation_of_kinetics.ipynb
+
+To deduce the eqillibrium states follow the instructions in ./Equillibrium_state_example/jupyter_notebooks/Analyis_of_equillibrium_state.ipynb
