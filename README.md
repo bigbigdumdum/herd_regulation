@@ -8,7 +8,7 @@ S. Mukundan1, Girish A. Deshpande2*, M.S. Madhusudhan1#
 *gad9190@gmail.com
 #madhusudhan@iiserpune.ac.in
 
-DOI:
+DOI:https://doi.org/10.1101/2023.03.31.535017
 
 Folder 'gillespie' contains the scripts to generate Gillespie stochastic simulations.
 
